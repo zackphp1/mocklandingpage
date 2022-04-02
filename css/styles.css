@@ -1,0 +1,204 @@
+#title {
+  background-color: #b4f9fa;
+}
+.brand-logo {
+  height: 1.25rem;
+}
+/* .desktop {
+  margin-bottom: 5rem;
+} */
+
+.desktop {
+  position: relative;
+  top: -50px;
+}
+
+.hey-box {
+  display: inline-block;
+  background-color: #ffff;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  padding: 9px;
+  margin: auto;
+  text-align: center;
+}
+.heybox {
+  background-color: #ffff;
+  border-radius: 10px 10px 10px 0;
+  width: 5rem;
+  padding: 10px;
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+.second-button {
+  border-radius: 10px;
+}
+/* .heyybox {
+  padding: 10px;
+} */
+
+.image-robot {
+  background-color: #690606;
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 3rem;
+  line-height: 1.125;
+  font-weight: 800;
+  color: #2b268f;
+}
+
+h3 {
+  font-family: "Nunito Sans", sans-serif;
+  color: #2b268f;
+  font-size: 1.5em;
+  font-weight: 800;
+}
+
+.container-fluid {
+  padding: 2% 5%;
+}
+
+.container-second {
+  padding: 2% 5%;
+}
+
+#third {
+  padding: 4% 5%;
+}
+
+.second-row {
+  margin-top: 8rem;
+}
+
+.second-h2 {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+  text-align: center;
+  font-weight: lighter;
+  color: #15093a;
+}
+
+.the-fourth {
+  height: 100%;
+  background-color: #c8e718;
+}
+
+.image-fourth {
+  text-align: center;
+  margin-top: 15rem;
+}
+
+.h2-fourth {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.button-fourth {
+  text-align: center;
+  margin-top: 20rem;
+}
+
+.button-fifth {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.text-fifth {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.plan {
+  background-color: #2b268f;
+  height: 40rem;
+  margin-left: 18rem;
+  margin-right: 18rem;
+  padding-right: 8rem;
+  padding-left: 8rem;
+}
+
+.text-plan-h2 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "Nunito Sans", sans-serif;
+  padding-top: 2rem;
+}
+
+.button-plan {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.text-plan-h2-two {
+  text-align: center;
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "Nunito Sans", sans-serif;
+  padding-top: 2rem;
+}
+
+header {
+  height: 40rem;
+  background-color: #a9a5ec;
+  padding: 20% 5%;
+}
+
+.link-header {
+  line-height: 0.5;
+}
+.header-p {
+  text-align: right;
+}
+
+.static-image {
+  margin-left: auto;
+}
+
+.images-second {
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.4;
+  filter: grayscale(100%);
+  object-fit: scale-down;
+}
+
+.input-group {
+  width: 30rem;
+}
+
+.sr-images {
+  margin-bottom: 25px;
+}
+
+.sr-heading {
+  margin-bottom: 25px;
+  color: #15093a;
+}
+.sr-p {
+  opacity: 60%;
+  line-height: 1.65;
+  font-size: 1.25em;
+}
+
+.button-p{
+  font-size: xx-small;
+}
+
